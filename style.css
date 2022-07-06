@@ -188,3 +188,16 @@ section {
     cursor: pointer;
     transition: .3s;
 }
+
+.humble {
+    text-align: center;
+    margin-top: 200px;
+    background-color: black;
+    height: 150px;
+    color: white;
+
+}
+
+.being {
+    margin-top: 100px;
+}
