@@ -47,6 +47,8 @@ body {
     margin-left: 130px;
     padding-top: 50px;
     font-size: 60px;
+    border: darkblue;
+    background-image: linear-gradient(yellow);
 
 }
 
@@ -200,4 +202,12 @@ section {
 
 .being {
     margin-top: 100px;
+}
+
+.span {
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    color: red;
+
 }
