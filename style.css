@@ -1,0 +1,62 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    height: 150px;
+    width: 1280px;
+}
+
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
+
+.link-button {
+    background-color: red;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 15px 40px;
+}
+
+.donate {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.taka {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-left: 130px;
+    padding-top: 50px;
+    font-size: 60px;
+
+}
+
+.other {
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+
+.now {
+    background-color: red;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 15px 40px;
+    display: -moz-popup;
+    text-align: center;
+    margin-left: 500px;
+}
