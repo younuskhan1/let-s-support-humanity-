@@ -42,13 +42,17 @@ body {
 
 .taka {
     display: inline-block;
-    width: 50px;
-    height: 50px;
-    margin-left: 130px;
-    padding-top: 50px;
-    font-size: 60px;
-    border: darkblue;
-    background-image: linear-gradient(yellow);
+    width: 80px;
+    height: 40px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 100px;
+    padding: 40px;
+    font-size: 35px;
+    border: 5px solid chartreuse;
+    background-color: gold;
+
 
 }
 
